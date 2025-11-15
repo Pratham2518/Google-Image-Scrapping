@@ -1,0 +1,310 @@
+INFO:werkzeug: * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Program Files\\Python311\\Lib\\encodings\\__pycache__\\unicode_escape.cpython-311.pyc', reloading
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:13:19] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:13:19] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:13:19] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\AppData\\Roaming\\Python\\Python311\\site-packages\\flask\\__pycache__\\debughelpers.cpython-311.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\Program Files\\Python311\\Lib\\__pycache__\\netrc.cpython-311.pyc', reloading
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:13:45] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:19:39] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:19:39] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:19:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:19:50] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:20:16] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:21:13] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:25:51] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:25:51] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:25:51] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:26:00] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:26:34] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:28:24] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:28:24] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:28:24] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:28:37] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:31:36] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:31:36] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:31:36] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:31:53] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:36:21] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:40:32] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:41:48] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:41:48] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:41:48] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:42:04] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:44:15] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:44:46] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:46:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:46:45] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:46:45] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:47:02] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:49:38] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:49:38] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:49:38] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/May/2023 16:49:53] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Program Files\\Python311\\Lib\\encodings\\__pycache__\\unicode_escape.cpython-311.pyc', reloading
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:25:28] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:25:29] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:25:29] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:25:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\AppData\\Roaming\\Python\\Python311\\site-packages\\flask\\__pycache__\\debughelpers.cpython-311.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\Program Files\\Python311\\Lib\\__pycache__\\netrc.cpython-311.pyc', reloading
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Program Files\\Python311\\Lib\\encodings\\__pycache__\\latin_1.cpython-311.pyc', reloading
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:25:49] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:29:23] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:29:23] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:29:23] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:29:38] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:30:13] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:37:44] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:37:45] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:37:45] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/May/2023 13:38:27] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Program Files\\Python311\\Lib\\encodings\\__pycache__\\unicode_escape.cpython-311.pyc', reloading
+INFO:werkzeug:127.0.0.1 - - [14/May/2023 15:19:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2023 15:19:09] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2023 15:19:10] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/May/2023 15:19:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'C:\\Users\\lenovo\\AppData\\Roaming\\Python\\Python311\\site-packages\\flask\\__pycache__\\debughelpers.cpython-311.pyc', reloading
+INFO:werkzeug: * Detected change in 'C:\\Program Files\\Python311\\Lib\\__pycache__\\netrc.cpython-311.pyc', reloading
+INFO:werkzeug: * Restarting with windowsapi reloader
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 147-017-332
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [14/May/2023 15:19:28] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 150-617-380
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 10:48:09] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 10:48:09] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 10:48:09] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 10:48:09] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=qxkWacyKzdRlKJ7tvdsl HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 10:48:09] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 10:48:20] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 10:48:20] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 10:48:20] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 10:48:21] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=qxkWacyKzdRlKJ7tvdsl HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 150-617-380
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 10:57:12] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 10:57:13] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 10:57:13] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 10:57:13] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=qxkWacyKzdRlKJ7tvdsl HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 10:57:48] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 10:57:49] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 10:57:49] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 10:57:49] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=qxkWacyKzdRlKJ7tvdsl HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 150-617-380
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:01:35] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:01:36] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:01:36] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:01:36] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=WXPvO9GkNAIE9zALnGa6 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 150-617-380
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:03:30] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:03:30] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:03:30] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:03:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=WXPvO9GkNAIE9zALnGa6 HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 150-617-380
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 150-617-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 150-617-380
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 150-617-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 150-617-380
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 150-617-380
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:06:01] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:06:01] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:06:01] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:06:01] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=KVEtOe4163GKeWnOw2LO HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:06:01] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:06:02] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:06:02] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:06:02] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:06:02] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=KVEtOe4163GKeWnOw2LO HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:06:02] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 150-617-380
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 150-617-380
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 150-617-380
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:15:48] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:15:48] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:15:48] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:15:49] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=EyJGE2Qt3PwnXwExevc8 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:16:56] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:16:56] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:16:56] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:16:56] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=EyJGE2Qt3PwnXwExevc8 HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\templates-20251103T054952Z-1-001.zip', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\templates-20251103T054952Z-1-001.zip', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\templates-20251103T054952Z-1-001.zip', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\templates-20251103T054952Z-1-001.zip', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\templates-20251103T054952Z-1-001.zip', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\templates-20251103T054952Z-1-001.zip', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\templates-20251103T054952Z-1-001.zip', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\templates-20251103T054952Z-1-001.zip', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\templates-20251103T054952Z-1-001.zip', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\templates-20251103T054952Z-1-001.zip', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\templates-20251103T054952Z-1-001.zip', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\templates-20251103T054952Z-1-001.zip', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\templates-20251103T054952Z-1-001.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 150-617-380
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 150-617-380
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 150-617-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\templates-20251103T054952Z-1-001.zip', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\templates-20251103T054952Z-1-001.zip', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\templates.zip', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\templates.zip', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\templates.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 150-617-380
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 150-617-380
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 150-617-380
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\templates.zip', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\templates.zip', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\rohan\\Downloads\\Image Scrapping\\templates.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 150-617-380
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 150-617-380
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 150-617-380
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 150-617-380
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:23:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:23:21] "[33mGET /static/css/main.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:23:21] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:23:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:23:35] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:23:35] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [03/Nov/2025 11:23:35] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
